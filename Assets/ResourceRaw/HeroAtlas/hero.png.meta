@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 9863862a133f244998f4fc918f85b5b3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hero_Die_1
+    21300002: Hero_Die_2
+    21300004: Hero_IDLE_1
+    21300006: Hero_Idle_2
+    21300008: Hero_Jump_L
+    21300010: Hero_Jump_R
+    21300012: Hero_Run_Left_1
+    21300014: Hero_Run_Left_2
+    21300016: Hero_Run_Right_1
+    21300018: Hero_Run_Right_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hero_Die_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 208
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero_Die_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 208
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero_IDLE_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 160
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero_Jump_L
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero_Jump_R
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 112
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero_Run_Left_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero_Run_Left_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 16
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero_Run_Right_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 64
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hero_Run_Right_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 16
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

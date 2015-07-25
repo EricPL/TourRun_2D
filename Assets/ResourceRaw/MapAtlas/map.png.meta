@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: 55c1f4e81e028422c8815456535b8c2b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Brick
+    21300002: Cloud_bad
+    21300004: Cloud_normal
+    21300006: Flower
+    21300008: Grass
+    21300010: Lady
+    21300012: Lawd
+    21300014: Missile_48x72_tobottom
+    21300016: Missile_48x72_toleft
+    21300018: Missile_48x72_toright
+    21300020: Missile_48x72_totop
+    21300022: Missile_96x144_tobottom
+    21300024: Missile_96x144_toleft
+    21300026: Missile_96x144_totop
+    21300028: SaveFlag
+    21300030: Saw_48x12_bottom
+    21300032: Saw_72x12
+    21300034: Slime_1
+    21300036: Slime_2
+    21300038: Slime_thorn
+    21300040: Spring
+    21300042: Stage5_4_pipes
+    21300044: Stage5_4_pipes2
+    21300046: Stage6_2_pipe
+    21300048: Stage6_2_pipe_single
+    21300050: Stage6_5_pipe
+    21300052: Stage6_5_pipe2
+    21300054: Switch_machine_broken
+    21300056: Switch_machine_off
+    21300058: Switch_machine_on
+    21300060: Sword
+    21300062: Tile_ground
+    21300064: Unknown
+    21300066: UnknownBrickOver
+    21300068: gold
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Brick
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 756
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cloud_bad
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 639
+        width: 139
+        height: 98
+      alignment: 9
+      pivot: {x: .50359714, y: .505102038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cloud_normal
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 625
+        width: 124
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flower
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 505
+        width: 44
+        height: 46
+      alignment: 9
+      pivot: {x: .5, y: .521739125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 973
+        width: 72
+        height: 23
+      alignment: 9
+      pivot: {x: .5, y: .521739125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lady
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 553
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lawd
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 998
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missile_48x72_tobottom
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 739
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missile_48x72_toleft
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 909
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missile_48x72_toright
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 859
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missile_48x72_totop
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 806
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missile_96x144_tobottom
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 395
+        width: 95
+        height: 140
+      alignment: 9
+      pivot: {x: .50526315, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missile_96x144_toleft
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 708
+        width: 140
+        height: 95
+      alignment: 9
+      pivot: {x: .5, y: .49473685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Missile_96x144_totop
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 348
+        width: 95
+        height: 140
+      alignment: 9
+      pivot: {x: .49473685, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SaveFlag
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 832
+        width: 35
+        height: 44
+      alignment: 9
+      pivot: {x: .5, y: .522727251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw_48x12_bottom
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 630
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw_72x12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 959
+        width: 72
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slime_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 465
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slime_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 425
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slime_thorn
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 811
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spring
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 784
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_4_pipes
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 564
+        width: 146
+        height: 312
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_4_pipes2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 326
+        width: 96
+        height: 311
+      alignment: 9
+      pivot: {x: .5, y: .501607716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage6_2_pipe
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 878
+        width: 240
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage6_2_pipe_single
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 490
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage6_5_pipe
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 805
+        width: 192
+        height: 217
+      alignment: 9
+      pivot: {x: .5, y: .502304137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage6_5_pipe2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 502
+        width: 96
+        height: 121
+      alignment: 9
+      pivot: {x: .5, y: .495867759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Switch_machine_broken
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 573
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: .455555558, y: .70588237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Switch_machine_off
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 537
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: .544444442, y: .70588237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Switch_machine_on
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 603
+        width: 45
+        height: 34
+      alignment: 9
+      pivot: {x: .455555558, y: .70588237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Sword
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 609
+        width: 48
+        height: 19
+      alignment: 9
+      pivot: {x: .5, y: .526315808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tile_ground
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 706
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unknown
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 755
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnknownBrickOver
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 656
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gold
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 748
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
